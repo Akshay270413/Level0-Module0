@@ -14,7 +14,7 @@ if __name__ == '__main__':
     window.bgcolor('white')
     
     # Make a new turtle
-    my_dog3= turtle.Turtle()
+    my_dog3 = turtle.Turtle()
     # This code sets our shape to a turtle
     my_dog3.shape('turtle')
     # Set your turtle's speed (0=fastest, 1=slowest, 10=faster)

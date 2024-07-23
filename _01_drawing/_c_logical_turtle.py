@@ -21,8 +21,8 @@ def turtle_clicked(x, y):
     print('turtle clicked!')
     
     # 8. Make a for loop to run the next instructions 3 times
-        my_dog2.right(360)
-        my_dog2.color(get_random_color())
+    my_dog2.right(360)
+    my_dog2.color(get_random_color())
         # 9. Make the turtle spin 360 degrees using the .right() method
         
         # 10. Use the .color() method and getRandomColor() function to change
